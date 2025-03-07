@@ -89,7 +89,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Hi. Welcome to home'
+      msg: '집에 언제가지요? 디질래요?home~ '
     }
   }
 }
